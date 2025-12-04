@@ -1,0 +1,19 @@
+# GitHub Repository Enrichment Engine Dependencies
+
+# Core
+python>=3.9
+
+# GitHub API
+PyGithub>=2.0.0
+requests>=2.31.0
+
+# CLI
+click>=8.1.0
+rich>=13.0.0  # Beautiful terminal output
+
+# Configuration
+pyyaml>=6.0
+toml>=0.10.0
+
+# Utilities
+python-dotenv>=1.0.0
